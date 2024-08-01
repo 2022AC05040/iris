@@ -1,7 +1,7 @@
 name: model_train
 permissions:
   id-token: write
-  contents: wrirte
+  contents: write
 
 on:
   - push
